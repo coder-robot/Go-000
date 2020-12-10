@@ -4,6 +4,7 @@ out
 *.ipr
 *.iws
 *.iml
+.vscode/
 
 ### Go template
 # Binaries for programs and plugins
